@@ -1,0 +1,10 @@
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+   <CustomAction
+       Title="AddToMagicDocs"
+       RegistrationId="101"
+       RegistrationType="List"
+       Location="ClientSideExtension.ListViewCommandSet"
+       ClientSideComponentId="5a35fafd-1fb4-4363-820d-6239199984a7"
+       ClientSideComponentProperties="{&quot;targetUrl&quot;:&quot;ShowDetails.aspx&quot;}">
+   </CustomAction>
+</Elements>

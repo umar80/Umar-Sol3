@@ -1,0 +1,26 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "injio-magiclinks-magicdocscustomaction-client-side-solution",
+    "id": "9e1d067f-999c-4084-a32d-a9feee20ada8",
+    "version": "1.0.1.1",
+    "features": [
+      {
+        "title": "Custom ECB Menu Item",
+        "description": "Deploys a custom action",
+        "id":"B2051050-0C6A-4DFD-92C8-20CE415AF1B8",
+        "version": "1.0.1.1",
+        "assets": {
+          "elementManifests": [
+            "elements.xml"
+          ]
+        }        
+      }
+    ],
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/injio-magiclinks-magicdocscustomaction.sppkg"
+  }
+}

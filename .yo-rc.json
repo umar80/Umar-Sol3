@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "injio-magiclinks-magicdocscustomaction",
+    "libraryId": "9e1d067f-999c-4084-a32d-a9feee20ada8",
+    "environment": "spo"
+  }
+}
